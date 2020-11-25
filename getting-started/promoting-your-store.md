@@ -28,7 +28,7 @@ You can consider paying for Facebook or Google ads. Both of these are avenues to
 
 ## Create A Google Places Listing
 
-A Google places listing will allow local customers to find you far easier as its focused on your locality. This means you are more likely to rank high if the person searching for you is near your store. Follow this link [https://www.google.com.au/business/](https://www.google.com.au/business/) to create or manage your listing.
+A Google places listing will allow local customers to find you far easier as its focused on your locality. This means you are more likely to rank high if the person searching for you is near your store. Follow this link [https://www.google.com/business/](https://www.google.com/business/) to create or manage your listing.
 
 Do not forget to add a "Placing an order" link to your places listing. See the following article on how this can be done [https://support.google.com/business/answer/6218037?hl=en](https://support.google.com/business/answer/6218037?hl=en)
 
@@ -38,7 +38,7 @@ SEO which stands for search engine optimization is the process of making your si
 
 ### Setup A Custom Domain Name
 
-By default, your online store can be found on a sub-domain of "cloudwaitress.com. It is essential that you set this subdomain to be something that customers can easily remember and recognize.
+By default, your online store can be found on a sub-domain of "skytakeout.com." It is essential that you set this subdomain to be something that customers can easily remember and recognize.
 
 While the subdomain is just there to get you up and running quickly, it's best to purchase your own domain name for your business. You can then configure your store to your own custom domain name.
 
@@ -56,11 +56,5 @@ Your meta description should just expand on that more but make sure to hit on yo
 
 Once you have a custom domain, visit [https://search.google.com/search-console](https://search.google.com/search-console). Register an account there, add your website, then use the "URL Inspection Tool" to check your website. There you can submit it to Google for indexing.
 
-## Additional Reading
 
-We have created a few helpful guides for restaurant marketing on our blog. We suggest reading them to get more ideas and strategies.
-
-* [Online Marketing - Google My Business](https://www.cloudwaitress.com/blog/online-restaurant-marketing-google-my-business)
-* [Online Marketing - Facebook](https://www.cloudwaitress.com/blog/online-restaurant-marketing-facebook-advertising)
-* [Creative Marketing Ideas For Restaurants](https://www.cloudwaitress.com/blog/creative-marketing-ideas-restaurants)
 

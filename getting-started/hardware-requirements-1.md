@@ -12,10 +12,10 @@ Every aspect of the system runs online and therefore requires you to be connecte
 
 * Use your own internet connection instead of a shared connection so you have greater control
 * Keep a 3G / 4G mobile internet connection as a backup in-case there is an interruption with your normal connection. Consider using your phone on hotspot mode for such instances.
-* Consider exclusively using a 3G / 4G mobile internet connection. Certain countries have a much more reliable mobile network such as Australia.
+* Consider exclusively using a 3G / 4G mobile internet connection.
 
 {% hint style="warning" %}
-IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that cloudwaitress.com is white-listed on your firewall to avoid connection issues to our servers.
+IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that skytakeout.com is white-listed on your firewall to avoid connection issues to our servers.
 {% endhint %}
 
 ## Computer or Tablet
@@ -28,7 +28,7 @@ To manage your online store and orders, you will need a device that can access t
 This is optional but very helpful for managing orders
 {% endhint %}
 
-You can automatically or manually print new orders using any printer whose drivers are installed on a Android device, Windows or Linux PC. To clarify, this means if you can print from an application like Word or Notepad, then it's compatible with our service. We highly recommend using a thermal receipt printer.
+You can automatically or manually print new orders using any printer whose drivers are installed on an Android device, Windows or Linux PC. To clarify, this means if you can print from an application like Word or Notepad, then it's compatible with our service. We highly recommend using a thermal receipt printer.
 
 Compatible devices:
 
@@ -38,7 +38,11 @@ Compatible devices:
 
 ## Recommended Computers & Tablets
 
-We highly recommend using an Android device or Windows 10 tablet/computer.  Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
+The easiest way for you is to order an [Android 6.0 pos Terminal Receipt Printer with 5.5 inch Screen](https://amzn.to/2KJJbdX) through [Amazon.](https://amzn.to/2KJJbdX)  
+
+![](../.gitbook/assets/image.png)
+
+We can also use an Android device or Windows 10 tablet/computer. Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
 
 ### Worldwide
 
@@ -58,13 +62,8 @@ You can use any printer with Windows or Linux drivers or any printer that works 
 
 Organized from lowest to highest price.
 
-* [PushPrinter PX-90](https://www.pushprinter.com/#printers) - Available with Ethernet or Bluetooth \(Recommended\)
+* [Star Micronics TSP143 ](https://amzn.to/3o2q11f)- Available as Bluetooth or USB or WIFI \(Recommended\)
 * Epson TM-T20 - Available with USB or Ethernet
 * Epson TM-M30 - Bluetooth
 * Epson TM-T82-II-i - USB and Ethernet, supporting many connected devices
-* Star Micronics TSP143 - Available as Bluetooth or USB or WIFI
-
-## Ideal Setup
-
-![Ideal setup](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1bzr2nv.png)
 

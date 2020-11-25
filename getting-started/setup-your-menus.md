@@ -1,17 +1,18 @@
 ---
 description: >-
-  To accept orders online, you need to set up your online menu. You can create
-  and manage all your menus under the "Menus" section in the restaurant
-  dashboard.
+  You can create and manage all your menus under the "Menus" section in the
+  restaurant dashboard.
 ---
 
-# Setup Your Menus
+# Your Menus
 
 {% embed url="https://youtu.be/Nyyr2vwB1Io" caption="Menu setup video tutorial" %}
 
-## Setup Process
+## Understand Your Menu
 
-Menus are organized in a tree structure. Menus contain categories and categories contain dishes. The general setup process is as follows.
+Menus are organized in a tree structure. Menus contain categories and categories contain dishes. 
+
+If you are going to add a new menu, the general setup process is as follows.
 
 1. Create a menu
 2. Create all the categories under the menu

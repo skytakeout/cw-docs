@@ -11,7 +11,11 @@ description: >-
 
 ### In-Store Setup
 
-To completely manage the orders lifecycle, you will need to have an internet enabled device in-store. We highly recommend using a Windows laptop or tablet with either Chrome or Firefox for the greatest compatibility.
+To completely manage the orders lifecycle, you will need to have an internet enabled device in-store. 
+
+The easiest way for you is to order an [Android 6.0 pos Terminal Receipt Printer with 5.5 inch Screen](https://amzn.to/2KJJbdX) through [Amazon.](https://amzn.to/2KJJbdX)  It is very small and affordable. 
+
+We also recommend using a Windows laptop or tablet with either Chrome or Firefox for the greatest compatibility.
 
 This device will need to be placed in an area where whoever is responsible for online orders can easily check, access and update orders.
 
@@ -22,10 +26,11 @@ Visit your restaurant dashboard and navigate to the orders page. The interface u
 There are several key features of the order management interfaces:
 
 * You can easily see whether an order is a pickup, delivery or dine-in by the icon on the left. 
-* The colour of the icon is a representation of the order's current status.
+* The color of the icon is a representation of the order's current status.
 * You can click an order to view the details of it and make updates
+* You can view the dashboard on different devices.
 
-### **Board View**
+### **Board View for** 
 
 ![Board view](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1l3lo9y.png)
 
@@ -113,7 +118,7 @@ Implementing an online ordering system if you have never done so before requires
 
 ## Managing Bookings
 
-Bookings are managed very similarly through the bookings page. When a new booking is placed, it will start as unconfirmed. Verify that you can accept it and then manually update the booking status to confirmed or cancelled.
+Bookings are managed very similarly through the bookings page. When a new booking is placed, it will start as unconfirmed. Verify that you can accept it and then manually update the booking status to confirmed or canceled.
 
 This will notify your customer respectively. You can then pencil this booking into your calendar if needed.
 
